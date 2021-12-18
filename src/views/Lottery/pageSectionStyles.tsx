@@ -1,0 +1,5 @@
+export const TITLE_BG = 'linear-gradient(180deg, #dfbc1f 0%, #40a334 100%)'
+export const GET_TICKETS_BG = 'linear-gradient(180deg, #dfbc1f 0%, #aa8f17 100%)'
+export const CHECK_PRIZES_BG = 'linear-gradient(139.73deg, #ac9b53 0%, #b3a464 100%)'
+export const FINISHED_ROUNDS_BG = 'linear-gradient(180deg, #2e5829 0%, #182b16 100%)'
+export const FINISHED_ROUNDS_BG_DARK = 'linear-gradient(180deg, #434575 0%, #66578D 100%)'
